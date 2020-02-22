@@ -1,0 +1,22 @@
+{
+  "name": "@tjq/yahoo-finance",
+  "version": "0.0.1",
+  "description": "Promise-based Javascript bindings to the official Yahoo Finance API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjq/yahoo-finance.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjq/yahoo-finance/issues"
+  },
+  "homepage": "https://github.com/tjq/yahoo-finance#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
